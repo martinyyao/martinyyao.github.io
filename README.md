@@ -1,4 +1,4 @@
-# martinyyao.github.io
+# Martin Y Yao
 
 _Hello!_ my name is **Martin Yao**. I am a third year computer science student with an interest in:
 

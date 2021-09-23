@@ -9,3 +9,5 @@ _Hello!_ my name is **Martin Yao**. I am a third year computer science student w
 
 Connect with me @:
 [LinkedIn](www.linkedin.com/in/martinyyao)
+
+<img src="werkstatt-muenchen-rose.jpg" width="400">

@@ -9,8 +9,21 @@ Skills:
 >- Strong communication skills (fluent in English and proficient in Cantonese).
 
 Education:
->- The University of Sydney
+> The University of Sydney
 >- Bachelor of Computer Science and Technology (Information Systems) [2017-Present] Expected Finish Date [JUL 2022]
+
+Projects:
+> OurPillsTalk | Website Redesign
+> AUG 2020 - SEP 2020
+>- Complete redesign of Pharmaceutical Drug Dispensing Software App's website. Responsive Web Design (RDW) for both mobile and desktop browsers.
+>- Worked very closely with client and company CEO Steve Cohen with weekly client facing meetings.
+>- Effectively worked in a team with 4 fellow computer science students covering full stack development of the website, as well as SEO.
+>- Available at: https://dev.ourpillstalk.com.au/
+
+> Happify - Website Prototype | Web Development
+> AUG 2017 - SEP 2017
+>- University Group Project, Exemplary example featured on university course website.
+>- Available at: https://info1003.herokuapp.com/pages/home/index.php
 
 *Welcome to my page!*
 

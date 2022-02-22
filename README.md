@@ -5,7 +5,8 @@ _Hello!_ my name is **Martin Yao**. I am a final year computer science student a
 Skills:
 >- Works well in teams, or working autonomously.
 >- IT generalist with experience in a range of IT environments from programming, software/hardware, and UI/UX.
->- Experience with a range of programming languages, such as Java, Python, C. and SQL. Understanding of software development lifecycles and project management frameworks life PMBOK and Agile.
+>- Experience with a range of programming languages, such as Java, Python, C and SQL. As well as business intelligence softwares such as Tableau
+>- Understanding of software development lifecycles and project management frameworks life PMBOK and Agile.
 >- Strong communication skills (fluent in English and proficient in Cantonese).
 
 Education:
